@@ -1,0 +1,501 @@
+Crop Type,Planting Date,Weather Conditions,Soil Characteristics,Fertilizer Usage,Crop Yield
+Squash,May 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,150 bushels/acre
+Maize,September 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Maize,July 15th,"Rainy, cool, wet",Clay loam,120 lbs/acre,40 bushels/acre
+Cucumbers,June 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,40 bushels/acre
+Squash,June 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Soybeans,August 1st,"Rainy, cool, wet",Sandy loam,120 lbs/acre,40 bushels/acre
+Wheat,September 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,30 bushels/acre
+Maize,May 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,30 bushels/acre
+Sugar Beans,September 1st,"Rainy, cool, wet",Clay loam,100 lbs/acre,30 bushels/acre
+Peppers,September 15th,"Sunny, warm, humid",Sandy loam,150 lbs/acre,30 bushels/acre
+Potatoes,September 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,30 bushels/acre
+Pumpkins,May 1st,"Sunny, warm, humid",Clay loam,100 lbs/acre,30 bushels/acre
+Pumpkins,May 15th,"Sunny, warm, dry",Silt loam,120 lbs/acre,150 bushels/acre
+Potatoes,September 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Sugar Beans,September 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,40 bushels/acre
+Cucumbers,July 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,40 bushels/acre
+Squash,July 15th,"Rainy, cool, wet",Silt loam,100 lbs/acre,40 bushels/acre
+Maize,May 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,40 bushels/acre
+Potatoes,September 15th,"Sunny, warm, humid",Silt loam,100 lbs/acre,150 bushels/acre
+Tomatoes,September 15th,"Sunny, warm, dry",Silt loam,120 lbs/acre,150 bushels/acre
+Soybeans,May 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Cucumbers,May 15th,"Rainy, cool, wet",Silt loam,100 lbs/acre,30 bushels/acre
+Peppers,July 15th,"Rainy, cool, wet",Silt loam,100 lbs/acre,150 bushels/acre
+Sugar Beans,August 15th,"Sunny, warm, humid",Silt loam,120 lbs/acre,30 bushels/acre
+Potatoes,May 15th,"Sunny, warm, humid",Clay loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,August 1st,"Sunny, warm, humid",Sandy loam,100 lbs/acre,40 bushels/acre
+Maize,May 1st,"Sunny, warm, humid",Silt loam,150 lbs/acre,40 bushels/acre
+Peppers,May 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,150 bushels/acre
+Cucumbers,June 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,30 bushels/acre
+Soybeans,July 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,150 bushels/acre
+Maize,July 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,150 bushels/acre
+Tomatoes,August 15th,"Rainy, cool, wet",Clay loam,100 lbs/acre,150 bushels/acre
+Tomatoes,June 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,40 bushels/acre
+Cucumbers,August 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,40 bushels/acre
+Potatoes,June 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,40 bushels/acre
+Pumpkins,September 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,150 bushels/acre
+Wheat,September 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,150 bushels/acre
+Cucumbers,June 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,40 bushels/acre
+Pumpkins,June 15th,"Sunny, warm, dry",Sandy loam,150 lbs/acre,40 bushels/acre
+Wheat,June 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,150 bushels/acre
+Sugar Beans,June 1st,"Sunny, warm, humid",Sandy loam,100 lbs/acre,40 bushels/acre
+Wheat,August 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,30 bushels/acre
+Cucumbers,June 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Sugar Beans,July 1st,"Sunny, warm, dry",Clay loam,120 lbs/acre,40 bushels/acre
+Maize,July 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,150 bushels/acre
+Pumpkins,June 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Sugar Beans,May 15th,"Rainy, cool, wet",Silt loam,100 lbs/acre,150 bushels/acre
+Potatoes,May 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,30 bushels/acre
+Pumpkins,September 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Tomatoes,July 15th,"Sunny, warm, humid",Sandy loam,120 lbs/acre,30 bushels/acre
+Soybeans,August 1st,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Squash,May 15th,"Sunny, warm, humid",Clay loam,100 lbs/acre,150 bushels/acre
+Wheat,August 1st,"Rainy, cool, wet",Sandy loam,120 lbs/acre,40 bushels/acre
+Peppers,September 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,40 bushels/acre
+Peppers,June 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,40 bushels/acre
+Wheat,August 15th,"Sunny, warm, dry",Sandy loam,100 lbs/acre,150 bushels/acre
+Soybeans,June 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,30 bushels/acre
+Squash,May 15th,"Rainy, cool, wet",Silt loam,150 lbs/acre,30 bushels/acre
+Pumpkins,July 15th,"Rainy, cool, wet",Clay loam,100 lbs/acre,30 bushels/acre
+Squash,July 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,30 bushels/acre
+Pumpkins,September 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,40 bushels/acre
+Squash,August 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,150 bushels/acre
+Soybeans,June 1st,"Sunny, warm, humid",Sandy loam,100 lbs/acre,150 bushels/acre
+Maize,May 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,40 bushels/acre
+Pumpkins,June 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,July 1st,"Rainy, cool, wet",Sandy loam,100 lbs/acre,30 bushels/acre
+Soybeans,May 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,150 bushels/acre
+Potatoes,July 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,30 bushels/acre
+Squash,May 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,150 bushels/acre
+Tomatoes,July 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,30 bushels/acre
+Potatoes,May 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,40 bushels/acre
+Pumpkins,September 15th,"Rainy, cool, wet",Clay loam,120 lbs/acre,40 bushels/acre
+Tomatoes,June 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Pumpkins,August 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,150 bushels/acre
+Pumpkins,September 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Tomatoes,July 15th,"Sunny, warm, humid",Clay loam,100 lbs/acre,40 bushels/acre
+Soybeans,June 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Sugar Beans,June 1st,"Sunny, warm, dry",Sandy loam,150 lbs/acre,30 bushels/acre
+Soybeans,May 15th,"Sunny, warm, dry",Silt loam,150 lbs/acre,150 bushels/acre
+Tomatoes,August 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,150 bushels/acre
+Sugar Beans,August 15th,"Sunny, warm, humid",Sandy loam,120 lbs/acre,30 bushels/acre
+Tomatoes,July 15th,"Rainy, cool, wet",Clay loam,100 lbs/acre,150 bushels/acre
+Potatoes,May 15th,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Squash,June 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Maize,June 15th,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Tomatoes,June 15th,"Sunny, warm, dry",Sandy loam,150 lbs/acre,30 bushels/acre
+Peppers,July 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,40 bushels/acre
+Potatoes,September 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,150 bushels/acre
+Peppers,May 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,150 bushels/acre
+Cucumbers,September 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,150 bushels/acre
+Maize,August 15th,"Rainy, cool, wet",Clay loam,100 lbs/acre,30 bushels/acre
+Tomatoes,August 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Potatoes,September 15th,"Sunny, warm, dry",Silt loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,September 1st,"Sunny, warm, humid",Clay loam,150 lbs/acre,150 bushels/acre
+Pumpkins,July 15th,"Sunny, warm, humid",Silt loam,120 lbs/acre,30 bushels/acre
+Squash,September 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,40 bushels/acre
+Sugar Beans,May 15th,"Sunny, warm, humid",Sandy loam,150 lbs/acre,30 bushels/acre
+Maize,September 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,40 bushels/acre
+Wheat,August 1st,"Sunny, warm, humid",Clay loam,150 lbs/acre,40 bushels/acre
+Squash,May 15th,"Sunny, warm, humid",Clay loam,100 lbs/acre,150 bushels/acre
+Potatoes,June 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,150 bushels/acre
+Peppers,May 15th,"Sunny, warm, dry",Sandy loam,150 lbs/acre,30 bushels/acre
+Potatoes,June 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,150 bushels/acre
+Tomatoes,May 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Pumpkins,May 1st,"Rainy, cool, wet",Sandy loam,120 lbs/acre,40 bushels/acre
+Squash,May 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,150 bushels/acre
+Squash,June 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Maize,September 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,30 bushels/acre
+Peppers,September 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,150 bushels/acre
+Cucumbers,August 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,150 bushels/acre
+Pumpkins,September 15th,"Rainy, cool, wet",Silt loam,150 lbs/acre,30 bushels/acre
+Squash,June 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,30 bushels/acre
+Peppers,June 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Maize,June 1st,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Peppers,May 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,150 bushels/acre
+Tomatoes,May 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,30 bushels/acre
+Sugar Beans,September 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Peppers,August 1st,"Sunny, warm, humid",Clay loam,150 lbs/acre,40 bushels/acre
+Tomatoes,September 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,30 bushels/acre
+Cucumbers,August 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,150 bushels/acre
+Squash,July 15th,"Sunny, warm, humid",Clay loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,August 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,150 bushels/acre
+Wheat,August 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,150 bushels/acre
+Tomatoes,August 1st,"Sunny, warm, dry",Silt loam,150 lbs/acre,150 bushels/acre
+Peppers,September 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,40 bushels/acre
+Pumpkins,June 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,40 bushels/acre
+Sugar Beans,September 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,August 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,40 bushels/acre
+Maize,June 1st,"Sunny, warm, dry",Clay loam,120 lbs/acre,40 bushels/acre
+Potatoes,September 1st,"Rainy, cool, wet",Clay loam,100 lbs/acre,40 bushels/acre
+Peppers,August 15th,"Rainy, cool, wet",Sandy loam,100 lbs/acre,30 bushels/acre
+Wheat,June 15th,"Sunny, warm, humid",Clay loam,120 lbs/acre,30 bushels/acre
+Tomatoes,September 1st,"Sunny, warm, humid",Silt loam,150 lbs/acre,150 bushels/acre
+Sugar Beans,July 15th,"Sunny, warm, dry",Silt loam,150 lbs/acre,40 bushels/acre
+Squash,September 1st,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Cucumbers,September 1st,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Soybeans,September 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Soybeans,May 15th,"Rainy, cool, wet",Silt loam,150 lbs/acre,40 bushels/acre
+Maize,June 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,30 bushels/acre
+Potatoes,May 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,150 bushels/acre
+Cucumbers,May 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,30 bushels/acre
+Tomatoes,June 1st,"Rainy, cool, wet",Sandy loam,100 lbs/acre,150 bushels/acre
+Pumpkins,September 15th,"Sunny, warm, dry",Clay loam,150 lbs/acre,150 bushels/acre
+Tomatoes,June 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,40 bushels/acre
+Pumpkins,August 1st,"Rainy, cool, wet",Sandy loam,120 lbs/acre,30 bushels/acre
+Peppers,September 15th,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Cucumbers,May 15th,"Rainy, cool, wet",Sandy loam,120 lbs/acre,150 bushels/acre
+Peppers,May 1st,"Sunny, warm, dry",Sandy loam,150 lbs/acre,150 bushels/acre
+Sugar Beans,June 1st,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Tomatoes,September 1st,"Sunny, warm, dry",Sandy loam,150 lbs/acre,150 bushels/acre
+Potatoes,May 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,150 bushels/acre
+Cucumbers,June 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,40 bushels/acre
+Soybeans,July 1st,"Rainy, cool, wet",Clay loam,100 lbs/acre,150 bushels/acre
+Maize,July 1st,"Sunny, warm, humid",Clay loam,100 lbs/acre,30 bushels/acre
+Soybeans,May 15th,"Sunny, warm, dry",Sandy loam,100 lbs/acre,40 bushels/acre
+Cucumbers,September 15th,"Sunny, warm, dry",Silt loam,120 lbs/acre,150 bushels/acre
+Soybeans,July 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,30 bushels/acre
+Sugar Beans,September 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,40 bushels/acre
+Wheat,July 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,150 bushels/acre
+Wheat,July 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,30 bushels/acre
+Peppers,August 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,150 bushels/acre
+Wheat,June 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,150 bushels/acre
+Pumpkins,July 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,30 bushels/acre
+Soybeans,June 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,150 bushels/acre
+Tomatoes,June 15th,"Rainy, cool, wet",Sandy loam,120 lbs/acre,40 bushels/acre
+Potatoes,September 1st,"Sunny, warm, humid",Silt loam,150 lbs/acre,30 bushels/acre
+Potatoes,June 1st,"Sunny, warm, dry",Silt loam,120 lbs/acre,40 bushels/acre
+Squash,September 1st,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Sugar Beans,May 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,150 bushels/acre
+Wheat,July 15th,"Rainy, cool, wet",Sandy loam,100 lbs/acre,30 bushels/acre
+Sugar Beans,July 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,150 bushels/acre
+Potatoes,July 15th,"Sunny, warm, dry",Silt loam,150 lbs/acre,40 bushels/acre
+Maize,May 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,40 bushels/acre
+Squash,June 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,30 bushels/acre
+Cucumbers,June 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,150 bushels/acre
+Maize,July 15th,"Sunny, warm, dry",Sandy loam,100 lbs/acre,150 bushels/acre
+Squash,July 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,30 bushels/acre
+Maize,August 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Soybeans,August 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,150 bushels/acre
+Maize,September 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,150 bushels/acre
+Cucumbers,July 15th,"Rainy, cool, wet",Sandy loam,100 lbs/acre,150 bushels/acre
+Soybeans,June 1st,"Sunny, warm, humid",Sandy loam,100 lbs/acre,40 bushels/acre
+Squash,August 1st,"Sunny, warm, humid",Silt loam,150 lbs/acre,30 bushels/acre
+Potatoes,May 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Wheat,June 1st,"Sunny, warm, humid",Clay loam,150 lbs/acre,40 bushels/acre
+Cucumbers,June 15th,"Rainy, cool, wet",Silt loam,150 lbs/acre,150 bushels/acre
+Squash,June 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Sugar Beans,August 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,40 bushels/acre
+Peppers,May 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,30 bushels/acre
+Pumpkins,August 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,40 bushels/acre
+Maize,May 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,30 bushels/acre
+Wheat,June 15th,"Sunny, warm, humid",Silt loam,100 lbs/acre,150 bushels/acre
+Pumpkins,May 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,150 bushels/acre
+Soybeans,May 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,150 bushels/acre
+Peppers,September 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,40 bushels/acre
+Potatoes,July 15th,"Sunny, warm, humid",Clay loam,100 lbs/acre,150 bushels/acre
+Tomatoes,May 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Cucumbers,July 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,150 bushels/acre
+Peppers,July 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,40 bushels/acre
+Maize,August 15th,"Sunny, warm, humid",Sandy loam,120 lbs/acre,30 bushels/acre
+Peppers,August 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Cucumbers,July 15th,"Rainy, cool, wet",Sandy loam,100 lbs/acre,40 bushels/acre
+Potatoes,July 1st,"Sunny, warm, humid",Silt loam,150 lbs/acre,40 bushels/acre
+Peppers,June 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,150 bushels/acre
+Peppers,August 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,30 bushels/acre
+Pumpkins,August 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,40 bushels/acre
+Cucumbers,July 1st,"Sunny, warm, humid",Clay loam,150 lbs/acre,30 bushels/acre
+Potatoes,July 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Cucumbers,August 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,30 bushels/acre
+Maize,July 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Pumpkins,August 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,150 bushels/acre
+Wheat,May 15th,"Sunny, warm, humid",Sandy loam,150 lbs/acre,150 bushels/acre
+Cucumbers,September 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,30 bushels/acre
+Squash,September 1st,"Sunny, warm, dry",Sandy loam,150 lbs/acre,30 bushels/acre
+Wheat,September 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Sugar Beans,June 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Soybeans,September 15th,"Sunny, warm, dry",Silt loam,150 lbs/acre,40 bushels/acre
+Potatoes,July 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,40 bushels/acre
+Squash,May 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,40 bushels/acre
+Sugar Beans,August 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,40 bushels/acre
+Peppers,July 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Maize,June 15th,"Sunny, warm, humid",Silt loam,100 lbs/acre,30 bushels/acre
+Cucumbers,September 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Squash,June 1st,"Sunny, warm, dry",Clay loam,120 lbs/acre,40 bushels/acre
+Peppers,July 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,30 bushels/acre
+Pumpkins,September 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,150 bushels/acre
+Wheat,May 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,150 bushels/acre
+Cucumbers,June 1st,"Sunny, warm, dry",Clay loam,120 lbs/acre,40 bushels/acre
+Cucumbers,July 15th,"Sunny, warm, dry",Silt loam,150 lbs/acre,30 bushels/acre
+Squash,July 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,150 bushels/acre
+Pumpkins,August 1st,"Sunny, warm, dry",Silt loam,150 lbs/acre,30 bushels/acre
+Peppers,September 1st,"Rainy, cool, wet",Sandy loam,120 lbs/acre,150 bushels/acre
+Squash,September 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,40 bushels/acre
+Soybeans,May 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,August 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,30 bushels/acre
+Wheat,June 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Cucumbers,September 15th,"Sunny, warm, dry",Sandy loam,150 lbs/acre,40 bushels/acre
+Soybeans,July 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,40 bushels/acre
+Sugar Beans,August 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Squash,September 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,40 bushels/acre
+Cucumbers,May 15th,"Sunny, warm, humid",Silt loam,100 lbs/acre,30 bushels/acre
+Maize,September 15th,"Rainy, cool, wet",Clay loam,100 lbs/acre,150 bushels/acre
+Sugar Beans,May 1st,"Sunny, warm, humid",Clay loam,100 lbs/acre,30 bushels/acre
+Soybeans,August 15th,"Rainy, cool, wet",Clay loam,100 lbs/acre,30 bushels/acre
+Peppers,August 1st,"Rainy, cool, wet",Sandy loam,120 lbs/acre,40 bushels/acre
+Pumpkins,July 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Squash,September 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,30 bushels/acre
+Peppers,August 1st,"Sunny, warm, humid",Sandy loam,120 lbs/acre,150 bushels/acre
+Cucumbers,May 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,150 bushels/acre
+Soybeans,May 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Potatoes,August 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,40 bushels/acre
+Tomatoes,June 15th,"Sunny, warm, humid",Silt loam,100 lbs/acre,150 bushels/acre
+Peppers,August 1st,"Sunny, warm, dry",Sandy loam,150 lbs/acre,150 bushels/acre
+Peppers,September 1st,"Sunny, warm, humid",Clay loam,150 lbs/acre,40 bushels/acre
+Peppers,June 1st,"Rainy, cool, wet",Clay loam,100 lbs/acre,30 bushels/acre
+Peppers,August 15th,"Sunny, warm, humid",Clay loam,120 lbs/acre,30 bushels/acre
+Cucumbers,May 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Wheat,August 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Maize,September 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Wheat,June 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,30 bushels/acre
+Potatoes,May 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,30 bushels/acre
+Soybeans,June 15th,"Sunny, warm, dry",Silt loam,150 lbs/acre,40 bushels/acre
+Peppers,September 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,August 15th,"Sunny, warm, dry",Sandy loam,100 lbs/acre,150 bushels/acre
+Potatoes,August 1st,"Rainy, cool, wet",Sandy loam,100 lbs/acre,150 bushels/acre
+Pumpkins,May 15th,"Sunny, warm, dry",Silt loam,120 lbs/acre,150 bushels/acre
+Sugar Beans,July 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,150 bushels/acre
+Wheat,June 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,40 bushels/acre
+Pumpkins,September 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,150 bushels/acre
+Pumpkins,August 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,30 bushels/acre
+Sugar Beans,June 15th,"Sunny, warm, humid",Silt loam,120 lbs/acre,40 bushels/acre
+Potatoes,July 1st,"Rainy, cool, wet",Clay loam,120 lbs/acre,40 bushels/acre
+Squash,July 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,40 bushels/acre
+Peppers,July 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,30 bushels/acre
+Soybeans,July 15th,"Sunny, warm, dry",Sandy loam,100 lbs/acre,40 bushels/acre
+Pumpkins,July 1st,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Potatoes,August 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Squash,May 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Maize,August 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,40 bushels/acre
+Peppers,June 15th,"Sunny, warm, humid",Clay loam,100 lbs/acre,40 bushels/acre
+Wheat,May 1st,"Sunny, warm, humid",Sandy loam,120 lbs/acre,150 bushels/acre
+Sugar Beans,August 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,40 bushels/acre
+Cucumbers,September 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,150 bushels/acre
+Potatoes,May 15th,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Wheat,July 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,150 bushels/acre
+Cucumbers,June 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,40 bushels/acre
+Maize,August 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,30 bushels/acre
+Maize,May 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,30 bushels/acre
+Squash,August 1st,"Rainy, cool, wet",Sandy loam,100 lbs/acre,150 bushels/acre
+Sugar Beans,June 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,150 bushels/acre
+Cucumbers,September 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Squash,September 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Squash,July 15th,"Rainy, cool, wet",Sandy loam,100 lbs/acre,40 bushels/acre
+Maize,July 1st,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Squash,August 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,40 bushels/acre
+Squash,May 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,40 bushels/acre
+Soybeans,July 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,150 bushels/acre
+Maize,July 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,150 bushels/acre
+Sugar Beans,September 15th,"Sunny, warm, humid",Sandy loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,September 15th,"Rainy, cool, wet",Clay loam,100 lbs/acre,150 bushels/acre
+Wheat,May 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,150 bushels/acre
+Squash,May 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,150 bushels/acre
+Wheat,September 15th,"Sunny, warm, humid",Silt loam,100 lbs/acre,40 bushels/acre
+Pumpkins,August 15th,"Sunny, warm, humid",Silt loam,120 lbs/acre,40 bushels/acre
+Sugar Beans,September 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,30 bushels/acre
+Wheat,June 1st,"Rainy, cool, wet",Clay loam,120 lbs/acre,30 bushels/acre
+Potatoes,June 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Maize,June 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,30 bushels/acre
+Peppers,August 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Tomatoes,July 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Wheat,September 1st,"Sunny, warm, humid",Clay loam,100 lbs/acre,150 bushels/acre
+Potatoes,July 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,30 bushels/acre
+Peppers,May 15th,"Sunny, warm, humid",Clay loam,100 lbs/acre,30 bushels/acre
+Tomatoes,July 1st,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Pumpkins,August 1st,"Sunny, warm, humid",Sandy loam,120 lbs/acre,40 bushels/acre
+Peppers,June 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,30 bushels/acre
+Squash,May 15th,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Potatoes,June 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,40 bushels/acre
+Maize,September 1st,"Rainy, cool, wet",Silt loam,150 lbs/acre,150 bushels/acre
+Potatoes,August 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,150 bushels/acre
+Sugar Beans,June 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Maize,June 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Sugar Beans,August 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,150 bushels/acre
+Potatoes,June 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,30 bushels/acre
+Squash,June 1st,"Sunny, warm, dry",Silt loam,150 lbs/acre,40 bushels/acre
+Maize,June 15th,"Sunny, warm, humid",Silt loam,120 lbs/acre,30 bushels/acre
+Squash,September 15th,"Sunny, warm, humid",Sandy loam,150 lbs/acre,150 bushels/acre
+Maize,July 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,30 bushels/acre
+Squash,June 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,40 bushels/acre
+Soybeans,May 1st,"Sunny, warm, dry",Silt loam,120 lbs/acre,150 bushels/acre
+Peppers,May 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Squash,August 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,150 bushels/acre
+Squash,June 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,40 bushels/acre
+Cucumbers,September 1st,"Sunny, warm, humid",Sandy loam,120 lbs/acre,150 bushels/acre
+Soybeans,July 15th,"Sunny, warm, humid",Sandy loam,120 lbs/acre,40 bushels/acre
+Tomatoes,May 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,40 bushels/acre
+Tomatoes,May 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,30 bushels/acre
+Peppers,May 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,150 bushels/acre
+Potatoes,July 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Potatoes,June 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Sugar Beans,August 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,150 bushels/acre
+Squash,June 15th,"Rainy, cool, wet",Silt loam,150 lbs/acre,30 bushels/acre
+Soybeans,July 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,150 bushels/acre
+Tomatoes,May 1st,"Sunny, warm, dry",Clay loam,120 lbs/acre,40 bushels/acre
+Soybeans,May 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Cucumbers,September 1st,"Rainy, cool, wet",Clay loam,120 lbs/acre,40 bushels/acre
+Squash,September 15th,"Sunny, warm, dry",Silt loam,120 lbs/acre,30 bushels/acre
+Maize,July 15th,"Sunny, warm, dry",Clay loam,150 lbs/acre,150 bushels/acre
+Maize,June 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,30 bushels/acre
+Tomatoes,June 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,40 bushels/acre
+Sugar Beans,August 15th,"Rainy, cool, wet",Sandy loam,120 lbs/acre,40 bushels/acre
+Pumpkins,July 15th,"Sunny, warm, dry",Sandy loam,100 lbs/acre,150 bushels/acre
+Potatoes,July 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Potatoes,August 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Soybeans,September 1st,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Soybeans,August 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Pumpkins,August 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,30 bushels/acre
+Wheat,August 1st,"Sunny, warm, dry",Clay loam,120 lbs/acre,40 bushels/acre
+Soybeans,July 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,40 bushels/acre
+Sugar Beans,June 1st,"Sunny, warm, dry",Silt loam,120 lbs/acre,40 bushels/acre
+Soybeans,May 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Maize,September 15th,"Sunny, warm, humid",Clay loam,120 lbs/acre,150 bushels/acre
+Squash,May 1st,"Sunny, warm, humid",Silt loam,150 lbs/acre,30 bushels/acre
+Peppers,August 15th,"Rainy, cool, wet",Clay loam,100 lbs/acre,150 bushels/acre
+Peppers,July 1st,"Sunny, warm, humid",Sandy loam,100 lbs/acre,40 bushels/acre
+Soybeans,May 1st,"Rainy, cool, wet",Sandy loam,100 lbs/acre,40 bushels/acre
+Tomatoes,June 15th,"Sunny, warm, humid",Clay loam,100 lbs/acre,30 bushels/acre
+Maize,September 15th,"Sunny, warm, dry",Silt loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,July 15th,"Sunny, warm, dry",Sandy loam,150 lbs/acre,30 bushels/acre
+Soybeans,August 1st,"Rainy, cool, wet",Silt loam,150 lbs/acre,150 bushels/acre
+Potatoes,June 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Soybeans,June 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,150 bushels/acre
+Wheat,September 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,40 bushels/acre
+Pumpkins,July 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,150 bushels/acre
+Pumpkins,July 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Wheat,July 15th,"Sunny, warm, dry",Silt loam,150 lbs/acre,150 bushels/acre
+Maize,May 1st,"Rainy, cool, wet",Sandy loam,120 lbs/acre,40 bushels/acre
+Peppers,July 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,150 bushels/acre
+Potatoes,September 15th,"Rainy, cool, wet",Clay loam,100 lbs/acre,30 bushels/acre
+Cucumbers,August 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,40 bushels/acre
+Squash,May 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Squash,September 15th,"Sunny, warm, dry",Sandy loam,150 lbs/acre,40 bushels/acre
+Sugar Beans,July 1st,"Sunny, warm, humid",Clay loam,100 lbs/acre,150 bushels/acre
+Squash,July 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,40 bushels/acre
+Tomatoes,May 15th,"Sunny, warm, dry",Silt loam,150 lbs/acre,40 bushels/acre
+Maize,August 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,30 bushels/acre
+Potatoes,May 15th,"Sunny, warm, humid",Clay loam,120 lbs/acre,150 bushels/acre
+Wheat,August 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Potatoes,May 1st,"Sunny, warm, dry",Silt loam,120 lbs/acre,40 bushels/acre
+Soybeans,September 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Tomatoes,August 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,150 bushels/acre
+Squash,May 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,40 bushels/acre
+Peppers,June 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,150 bushels/acre
+Cucumbers,June 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,30 bushels/acre
+Peppers,June 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Potatoes,September 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Sugar Beans,August 1st,"Sunny, warm, dry",Silt loam,120 lbs/acre,150 bushels/acre
+Squash,September 1st,"Sunny, warm, dry",Sandy loam,150 lbs/acre,150 bushels/acre
+Wheat,July 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Maize,July 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,150 bushels/acre
+Soybeans,August 15th,"Rainy, cool, wet",Silt loam,150 lbs/acre,30 bushels/acre
+Tomatoes,May 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,30 bushels/acre
+Pumpkins,June 1st,"Rainy, cool, wet",Clay loam,100 lbs/acre,40 bushels/acre
+Squash,August 1st,"Sunny, warm, dry",Silt loam,150 lbs/acre,40 bushels/acre
+Soybeans,July 1st,"Sunny, warm, dry",Sandy loam,120 lbs/acre,150 bushels/acre
+Sugar Beans,June 15th,"Rainy, cool, wet",Clay loam,120 lbs/acre,40 bushels/acre
+Potatoes,June 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,30 bushels/acre
+Cucumbers,July 15th,"Rainy, cool, wet",Silt loam,100 lbs/acre,30 bushels/acre
+Pumpkins,June 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,150 bushels/acre
+Soybeans,August 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,40 bushels/acre
+Maize,September 1st,"Sunny, warm, humid",Silt loam,150 lbs/acre,30 bushels/acre
+Pumpkins,May 15th,"Sunny, warm, humid",Silt loam,100 lbs/acre,40 bushels/acre
+Soybeans,July 15th,"Sunny, warm, humid",Silt loam,120 lbs/acre,40 bushels/acre
+Wheat,August 1st,"Sunny, warm, humid",Clay loam,150 lbs/acre,150 bushels/acre
+Potatoes,September 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,40 bushels/acre
+Potatoes,June 1st,"Rainy, cool, wet",Sandy loam,100 lbs/acre,40 bushels/acre
+Maize,September 15th,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Cucumbers,June 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,40 bushels/acre
+Potatoes,May 1st,"Rainy, cool, wet",Clay loam,100 lbs/acre,30 bushels/acre
+Wheat,September 15th,"Sunny, warm, dry",Sandy loam,100 lbs/acre,40 bushels/acre
+Peppers,July 15th,"Sunny, warm, humid",Sandy loam,150 lbs/acre,40 bushels/acre
+Wheat,August 1st,"Sunny, warm, humid",Sandy loam,100 lbs/acre,40 bushels/acre
+Potatoes,May 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Wheat,September 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,150 bushels/acre
+Sugar Beans,July 15th,"Rainy, cool, wet",Silt loam,150 lbs/acre,30 bushels/acre
+Squash,August 15th,"Sunny, warm, humid",Silt loam,100 lbs/acre,30 bushels/acre
+Wheat,May 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,150 bushels/acre
+Wheat,July 1st,"Sunny, warm, humid",Clay loam,100 lbs/acre,30 bushels/acre
+Squash,September 15th,"Rainy, cool, wet",Sandy loam,120 lbs/acre,150 bushels/acre
+Wheat,September 15th,"Sunny, warm, humid",Silt loam,100 lbs/acre,40 bushels/acre
+Pumpkins,June 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,40 bushels/acre
+Sugar Beans,July 15th,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Pumpkins,July 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,150 bushels/acre
+Potatoes,July 15th,"Sunny, warm, dry",Sandy loam,100 lbs/acre,30 bushels/acre
+Tomatoes,May 1st,"Sunny, warm, humid",Silt loam,100 lbs/acre,30 bushels/acre
+Tomatoes,July 1st,"Sunny, warm, humid",Clay loam,150 lbs/acre,30 bushels/acre
+Pumpkins,September 1st,"Sunny, warm, dry",Clay loam,100 lbs/acre,40 bushels/acre
+Tomatoes,June 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,150 bushels/acre
+Peppers,May 15th,"Sunny, warm, humid",Clay loam,120 lbs/acre,30 bushels/acre
+Sugar Beans,May 1st,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Pumpkins,June 1st,"Sunny, warm, humid",Sandy loam,120 lbs/acre,150 bushels/acre
+Maize,June 15th,"Sunny, warm, humid",Clay loam,100 lbs/acre,30 bushels/acre
+Potatoes,July 1st,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Maize,July 1st,"Rainy, cool, wet",Clay loam,120 lbs/acre,150 bushels/acre
+Cucumbers,June 1st,"Rainy, cool, wet",Clay loam,100 lbs/acre,150 bushels/acre
+Potatoes,July 1st,"Sunny, warm, humid",Sandy loam,150 lbs/acre,150 bushels/acre
+Potatoes,June 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,30 bushels/acre
+Maize,August 15th,"Rainy, cool, wet",Clay loam,120 lbs/acre,30 bushels/acre
+Peppers,May 1st,"Sunny, warm, dry",Silt loam,120 lbs/acre,150 bushels/acre
+Cucumbers,September 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,150 bushels/acre
+Cucumbers,May 15th,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Potatoes,August 1st,"Sunny, warm, humid",Sandy loam,100 lbs/acre,150 bushels/acre
+Maize,June 15th,"Sunny, warm, humid",Silt loam,150 lbs/acre,40 bushels/acre
+Sugar Beans,September 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Wheat,July 1st,"Sunny, warm, dry",Sandy loam,150 lbs/acre,40 bushels/acre
+Wheat,September 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,30 bushels/acre
+Pumpkins,June 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,40 bushels/acre
+Wheat,August 15th,"Sunny, warm, dry",Clay loam,150 lbs/acre,150 bushels/acre
+Pumpkins,September 15th,"Rainy, cool, wet",Sandy loam,100 lbs/acre,30 bushels/acre
+Maize,September 15th,"Rainy, cool, wet",Clay loam,150 lbs/acre,30 bushels/acre
+Peppers,July 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Tomatoes,July 1st,"Rainy, cool, wet",Clay loam,100 lbs/acre,40 bushels/acre
+Peppers,August 15th,"Rainy, cool, wet",Sandy loam,100 lbs/acre,30 bushels/acre
+Potatoes,July 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,30 bushels/acre
+Potatoes,July 15th,"Sunny, warm, dry",Sandy loam,150 lbs/acre,40 bushels/acre
+Peppers,May 1st,"Sunny, warm, dry",Silt loam,120 lbs/acre,30 bushels/acre
+Squash,May 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Wheat,August 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,150 bushels/acre
+Squash,July 15th,"Sunny, warm, dry",Clay loam,100 lbs/acre,30 bushels/acre
+Tomatoes,July 15th,"Sunny, warm, humid",Clay loam,150 lbs/acre,40 bushels/acre
+Sugar Beans,May 15th,"Sunny, warm, dry",Sandy loam,150 lbs/acre,150 bushels/acre
+Tomatoes,September 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,30 bushels/acre
+Peppers,May 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,30 bushels/acre
+Wheat,May 1st,"Sunny, warm, dry",Clay loam,150 lbs/acre,150 bushels/acre
+Pumpkins,September 15th,"Sunny, warm, dry",Clay loam,120 lbs/acre,30 bushels/acre
+Soybeans,June 1st,"Rainy, cool, wet",Clay loam,100 lbs/acre,40 bushels/acre
+Squash,September 1st,"Sunny, warm, humid",Sandy loam,120 lbs/acre,150 bushels/acre
+Wheat,June 1st,"Sunny, warm, humid",Clay loam,120 lbs/acre,40 bushels/acre
+Potatoes,August 15th,"Rainy, cool, wet",Sandy loam,120 lbs/acre,150 bushels/acre
+Peppers,June 1st,"Sunny, warm, humid",Silt loam,150 lbs/acre,30 bushels/acre
+Maize,July 1st,"Sunny, warm, humid",Silt loam,120 lbs/acre,30 bushels/acre
+Wheat,September 15th,"Sunny, warm, dry",Silt loam,100 lbs/acre,30 bushels/acre
+Tomatoes,May 15th,"Rainy, cool, wet",Silt loam,120 lbs/acre,30 bushels/acre
+Peppers,August 1st,"Rainy, cool, wet",Silt loam,150 lbs/acre,30 bushels/acre
+Wheat,September 1st,"Sunny, warm, dry",Silt loam,100 lbs/acre,40 bushels/acre
+Soybeans,September 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,150 bushels/acre
+Peppers,September 1st,"Sunny, warm, dry",Silt loam,150 lbs/acre,150 bushels/acre
+Sugar Beans,August 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,150 bushels/acre
+Cucumbers,September 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,150 bushels/acre
+Potatoes,June 1st,"Rainy, cool, wet",Sandy loam,120 lbs/acre,40 bushels/acre
+Maize,August 15th,"Sunny, warm, dry",Clay loam,150 lbs/acre,150 bushels/acre
+Tomatoes,September 1st,"Rainy, cool, wet",Sandy loam,150 lbs/acre,40 bushels/acre
+Maize,September 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Sugar Beans,September 15th,"Rainy, cool, wet",Sandy loam,150 lbs/acre,40 bushels/acre
+Peppers,July 15th,"Sunny, warm, dry",Sandy loam,120 lbs/acre,40 bushels/acre
+Potatoes,August 1st,"Rainy, cool, wet",Silt loam,100 lbs/acre,40 bushels/acre
+Soybeans,July 15th,"Sunny, warm, humid",Sandy loam,100 lbs/acre,30 bushels/acre
+Sugar Beans,June 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,30 bushels/acre
+Tomatoes,July 1st,"Sunny, warm, dry",Sandy loam,100 lbs/acre,150 bushels/acre
+Cucumbers,May 1st,"Rainy, cool, wet",Silt loam,150 lbs/acre,40 bushels/acre
