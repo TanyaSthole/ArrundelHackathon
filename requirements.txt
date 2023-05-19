@@ -6,3 +6,4 @@ matplotlib
 regex
 tensorflow
 scikit-learn
+streamlit
