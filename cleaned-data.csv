@@ -1,0 +1,501 @@
+,Unnamed: 0,Crop Type,Planting Date,Weather Conditions,Soil Characteristics,Firtilizer Usage(kgs/arce),Crop Yield (bushels/acre)
+0,363,Peppers,August 15th,"Rainy, cool, wet",Clay loam,45.359237,150.0000
+1,55,Wheat,August 15th,"Sunny, warm, dry",Sandy loam,45.359237,150.0000
+2,331,Squash,August 15th,"Rainy, cool, wet",Clay loam,68.0388555,150.0000
+3,79,Tomatoes,August 15th,"Sunny, warm, dry",Clay loam,45.359237,150.0000
+4,80,Sugar Beans,August 15th,"Sunny, warm, humid",Sandy loam,54.4310844,30.0000
+5,90,Maize,August 15th,"Rainy, cool, wet",Clay loam,45.359237,30.0000
+6,91,Tomatoes,August 15th,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+7,462,Peppers,August 15th,"Rainy, cool, wet",Sandy loam,45.359237,30.0000
+8,457,Wheat,August 15th,"Sunny, warm, dry",Clay loam,68.0388555,150.0000
+9,303,Pumpkins,August 15th,"Sunny, warm, humid",Silt loam,54.4310844,40.0000
+10,119,Cucumbers,August 15th,"Rainy, cool, wet",Silt loam,54.4310844,150.0000
+11,122,Wheat,August 15th,"Sunny, warm, dry",Sandy loam,54.4310844,150.0000
+12,478,Potatoes,August 15th,"Rainy, cool, wet",Sandy loam,54.4310844,150.0000
+13,447,Maize,August 15th,"Rainy, cool, wet",Clay loam,54.4310844,30.0000
+14,130,Peppers,August 15th,"Rainy, cool, wet",Sandy loam,45.359237,30.0000
+15,425,Squash,August 15th,"Sunny, warm, humid",Silt loam,45.359237,30.0000
+16,199,Maize,August 15th,"Sunny, warm, humid",Sandy loam,54.4310844,30.0000
+17,200,Peppers,August 15th,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+18,208,Cucumbers,August 15th,"Sunny, warm, humid",Clay loam,68.0388555,30.0000
+19,263,Sugar Beans,August 15th,"Sunny, warm, dry",Sandy loam,45.359237,150.0000
+20,409,Soybeans,August 15th,"Sunny, warm, humid",Silt loam,68.0388555,40.0000
+21,257,Wheat,August 15th,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+22,255,Peppers,August 15th,"Sunny, warm, humid",Clay loam,54.4310844,30.0000
+23,243,Soybeans,August 15th,"Rainy, cool, wet",Clay loam,45.359237,30.0000
+24,400,Soybeans,August 15th,"Rainy, cool, wet",Silt loam,68.0388555,30.0000
+25,127,Sugar Beans,August 15th,"Sunny, warm, dry",Sandy loam,54.4310844,40.0000
+26,31,Tomatoes,August 15th,"Rainy, cool, wet",Clay loam,45.359237,150.0000
+27,387,Wheat,August 15th,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+28,350,Sugar Beans,August 15th,"Rainy, cool, wet",Sandy loam,54.4310844,40.0000
+29,23,Sugar Beans,August 15th,"Sunny, warm, humid",Silt loam,54.4310844,30.0000
+30,355,Soybeans,August 15th,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+31,490,Maize,August 15th,"Sunny, warm, dry",Clay loam,68.0388555,150.0000
+32,276,Potatoes,August 1st,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+33,278,Maize,August 1st,"Sunny, warm, humid",Silt loam,45.359237,40.0000
+34,160,Peppers,August 1st,"Rainy, cool, wet",Silt loam,45.359237,150.0000
+35,281,Sugar Beans,August 1st,"Sunny, warm, humid",Silt loam,45.359237,40.0000
+36,144,Pumpkins,August 1st,"Rainy, cool, wet",Sandy loam,54.4310844,30.0000
+37,286,Maize,August 1st,"Sunny, warm, humid",Silt loam,45.359237,30.0000
+38,288,Squash,August 1st,"Rainy, cool, wet",Sandy loam,45.359237,150.0000
+39,294,Squash,August 1st,"Rainy, cool, wet",Silt loam,45.359237,40.0000
+40,385,Maize,August 1st,"Sunny, warm, dry",Sandy loam,45.359237,30.0000
+41,487,Sugar Beans,August 1st,"Rainy, cool, wet",Silt loam,45.359237,150.0000
+42,483,Peppers,August 1st,"Rainy, cool, wet",Silt loam,68.0388555,30.0000
+43,121,Sugar Beans,August 1st,"Sunny, warm, dry",Sandy loam,45.359237,150.0000
+44,117,Peppers,August 1st,"Sunny, warm, humid",Clay loam,68.0388555,40.0000
+45,451,Potatoes,August 1st,"Sunny, warm, humid",Sandy loam,45.359237,150.0000
+46,308,Peppers,August 1st,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+47,109,Cucumbers,August 1st,"Sunny, warm, dry",Sandy loam,54.4310844,150.0000
+48,353,Potatoes,August 1st,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+49,314,Pumpkins,August 1st,"Sunny, warm, humid",Sandy loam,54.4310844,40.0000
+50,98,Wheat,August 1st,"Sunny, warm, humid",Clay loam,68.0388555,40.0000
+51,319,Potatoes,August 1st,"Sunny, warm, dry",Clay loam,45.359237,150.0000
+52,123,Tomatoes,August 1st,"Sunny, warm, dry",Silt loam,68.0388555,150.0000
+53,177,Maize,August 1st,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+54,390,Tomatoes,August 1st,"Sunny, warm, humid",Sandy loam,68.0388555,150.0000
+55,182,Squash,August 1st,"Sunny, warm, humid",Silt loam,68.0388555,30.0000
+56,250,Potatoes,August 1st,"Rainy, cool, wet",Clay loam,68.0388555,40.0000
+57,247,Peppers,August 1st,"Sunny, warm, humid",Sandy loam,54.4310844,150.0000
+58,244,Peppers,August 1st,"Rainy, cool, wet",Sandy loam,54.4310844,40.0000
+59,403,Squash,August 1st,"Sunny, warm, dry",Silt loam,68.0388555,40.0000
+60,238,Sugar Beans,August 1st,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+61,234,Sugar Beans,August 1st,"Sunny, warm, humid",Silt loam,45.359237,30.0000
+62,357,Wheat,August 1st,"Sunny, warm, dry",Clay loam,54.4310844,40.0000
+63,230,Pumpkins,August 1st,"Sunny, warm, dry",Silt loam,68.0388555,30.0000
+64,396,Sugar Beans,August 1st,"Sunny, warm, dry",Silt loam,54.4310844,150.0000
+65,5,Soybeans,August 1st,"Rainy, cool, wet",Sandy loam,54.4310844,40.0000
+66,467,Wheat,August 1st,"Sunny, warm, humid",Silt loam,54.4310844,150.0000
+67,219,Sugar Beans,August 1st,"Sunny, warm, humid",Clay loam,54.4310844,40.0000
+68,264,Potatoes,August 1st,"Rainy, cool, wet",Sandy loam,45.359237,150.0000
+69,210,Pumpkins,August 1st,"Rainy, cool, wet",Sandy loam,68.0388555,150.0000
+70,356,Pumpkins,August 1st,"Sunny, warm, dry",Sandy loam,54.4310844,30.0000
+71,205,Pumpkins,August 1st,"Rainy, cool, wet",Silt loam,54.4310844,40.0000
+72,204,Peppers,August 1st,"Sunny, warm, humid",Silt loam,45.359237,30.0000
+73,495,Potatoes,August 1st,"Rainy, cool, wet",Silt loam,45.359237,40.0000
+74,269,Pumpkins,August 1st,"Sunny, warm, dry",Sandy loam,45.359237,30.0000
+75,421,Wheat,August 1st,"Sunny, warm, humid",Sandy loam,45.359237,40.0000
+76,189,Pumpkins,August 1st,"Sunny, warm, dry",Sandy loam,54.4310844,40.0000
+77,187,Sugar Beans,August 1st,"Sunny, warm, dry",Sandy loam,45.359237,40.0000
+78,413,Wheat,August 1st,"Sunny, warm, humid",Clay loam,68.0388555,150.0000
+79,178,Soybeans,August 1st,"Sunny, warm, dry",Clay loam,45.359237,150.0000
+80,252,Peppers,August 1st,"Sunny, warm, dry",Sandy loam,68.0388555,150.0000
+81,73,Pumpkins,August 1st,"Sunny, warm, humid",Clay loam,54.4310844,150.0000
+82,340,Sugar Beans,August 1st,"Sunny, warm, humid",Silt loam,45.359237,150.0000
+83,379,Cucumbers,August 1st,"Sunny, warm, humid",Clay loam,54.4310844,40.0000
+84,25,Sugar Beans,August 1st,"Sunny, warm, humid",Sandy loam,45.359237,40.0000
+85,322,Sugar Beans,August 1st,"Sunny, warm, dry",Silt loam,45.359237,150.0000
+86,41,Wheat,August 1st,"Rainy, cool, wet",Silt loam,45.359237,30.0000
+87,52,Wheat,August 1st,"Rainy, cool, wet",Sandy loam,54.4310844,40.0000
+88,33,Cucumbers,August 1st,"Rainy, cool, wet",Silt loam,45.359237,40.0000
+89,61,Squash,August 1st,"Rainy, cool, wet",Sandy loam,68.0388555,150.0000
+90,50,Soybeans,August 1st,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+91,369,Soybeans,August 1st,"Rainy, cool, wet",Silt loam,68.0388555,150.0000
+92,169,Wheat,July 15th,"Rainy, cool, wet",Sandy loam,45.359237,30.0000
+93,334,Soybeans,July 15th,"Sunny, warm, humid",Sandy loam,54.4310844,40.0000
+94,175,Maize,July 15th,"Sunny, warm, dry",Sandy loam,45.359237,150.0000
+95,273,Peppers,July 15th,"Sunny, warm, humid",Clay loam,68.0388555,30.0000
+96,171,Potatoes,July 15th,"Sunny, warm, dry",Silt loam,68.0388555,40.0000
+97,374,Pumpkins,July 15th,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+98,81,Tomatoes,July 15th,"Rainy, cool, wet",Clay loam,45.359237,150.0000
+99,22,Peppers,July 15th,"Rainy, cool, wet",Silt loam,45.359237,150.0000
+100,180,Cucumbers,July 15th,"Rainy, cool, wet",Sandy loam,45.359237,150.0000
+101,375,Wheat,July 15th,"Sunny, warm, dry",Silt loam,68.0388555,150.0000
+102,159,Wheat,July 15th,"Sunny, warm, dry",Sandy loam,54.4310844,30.0000
+103,432,Pumpkins,July 15th,"Rainy, cool, wet",Sandy loam,68.0388555,150.0000
+104,156,Soybeans,July 15th,"Sunny, warm, dry",Silt loam,45.359237,30.0000
+105,433,Potatoes,July 15th,"Sunny, warm, dry",Sandy loam,45.359237,30.0000
+106,58,Pumpkins,July 15th,"Rainy, cool, wet",Clay loam,45.359237,30.0000
+107,377,Peppers,July 15th,"Sunny, warm, dry",Clay loam,45.359237,150.0000
+108,274,Soybeans,July 15th,"Sunny, warm, dry",Sandy loam,45.359237,40.0000
+109,431,Sugar Beans,July 15th,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+110,49,Tomatoes,July 15th,"Sunny, warm, humid",Sandy loam,54.4310844,30.0000
+111,424,Sugar Beans,July 15th,"Rainy, cool, wet",Silt loam,68.0388555,30.0000
+112,245,Pumpkins,July 15th,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+113,2,Maize,July 15th,"Rainy, cool, wet",Clay loam,54.4310844,40.0000
+114,237,Soybeans,July 15th,"Rainy, cool, wet",Clay loam,68.0388555,40.0000
+115,407,Cucumbers,July 15th,"Rainy, cool, wet",Silt loam,45.359237,30.0000
+116,228,Cucumbers,July 15th,"Sunny, warm, dry",Silt loam,68.0388555,30.0000
+117,398,Wheat,July 15th,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+118,224,Peppers,July 15th,"Sunny, warm, humid",Silt loam,68.0388555,30.0000
+119,220,Peppers,July 15th,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+120,342,Soybeans,July 15th,"Sunny, warm, humid",Clay loam,68.0388555,150.0000
+121,217,Potatoes,July 15th,"Sunny, warm, humid",Silt loam,68.0388555,40.0000
+122,496,Soybeans,July 15th,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+123,412,Soybeans,July 15th,"Sunny, warm, humid",Silt loam,54.4310844,40.0000
+124,201,Cucumbers,July 15th,"Rainy, cool, wet",Sandy loam,45.359237,40.0000
+125,494,Peppers,July 15th,"Sunny, warm, dry",Sandy loam,54.4310844,40.0000
+126,197,Cucumbers,July 15th,"Sunny, warm, humid",Sandy loam,45.359237,150.0000
+127,195,Potatoes,July 15th,"Sunny, warm, humid",Clay loam,45.359237,150.0000
+128,420,Peppers,July 15th,"Sunny, warm, humid",Sandy loam,68.0388555,40.0000
+129,338,Potatoes,July 15th,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+130,347,Maize,July 15th,"Sunny, warm, dry",Clay loam,68.0388555,150.0000
+131,373,Pumpkins,July 15th,"Sunny, warm, humid",Silt loam,68.0388555,150.0000
+132,292,Squash,July 15th,"Rainy, cool, wet",Sandy loam,45.359237,40.0000
+133,368,Sugar Beans,July 15th,"Sunny, warm, dry",Sandy loam,68.0388555,30.0000
+134,469,Tomatoes,July 15th,"Sunny, warm, humid",Clay loam,68.0388555,40.0000
+135,75,Tomatoes,July 15th,"Sunny, warm, humid",Clay loam,45.359237,40.0000
+136,94,Pumpkins,July 15th,"Sunny, warm, humid",Silt loam,54.4310844,30.0000
+137,133,Sugar Beans,July 15th,"Sunny, warm, dry",Silt loam,68.0388555,40.0000
+138,464,Potatoes,July 15th,"Sunny, warm, dry",Sandy loam,68.0388555,40.0000
+139,468,Squash,July 15th,"Sunny, warm, dry",Clay loam,45.359237,30.0000
+140,120,Squash,July 15th,"Sunny, warm, humid",Clay loam,54.4310844,30.0000
+141,351,Pumpkins,July 15th,"Sunny, warm, dry",Sandy loam,45.359237,150.0000
+142,296,Soybeans,July 15th,"Sunny, warm, dry",Clay loam,45.359237,150.0000
+143,16,Squash,July 15th,"Rainy, cool, wet",Silt loam,45.359237,40.0000
+144,383,Squash,July 15th,"Rainy, cool, wet",Sandy loam,68.0388555,40.0000
+145,309,Tomatoes,July 15th,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+146,271,Potatoes,July 1st,"Rainy, cool, wet",Clay loam,54.4310844,40.0000
+147,202,Potatoes,July 1st,"Sunny, warm, humid",Silt loam,68.0388555,40.0000
+148,460,Peppers,July 1st,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+149,454,Wheat,July 1st,"Sunny, warm, dry",Sandy loam,68.0388555,40.0000
+150,364,Peppers,July 1st,"Sunny, warm, humid",Sandy loam,45.359237,40.0000
+151,382,Sugar Beans,July 1st,"Sunny, warm, humid",Clay loam,45.359237,150.0000
+152,311,Potatoes,July 1st,"Sunny, warm, humid",Sandy loam,68.0388555,30.0000
+153,198,Peppers,July 1st,"Sunny, warm, dry",Sandy loam,45.359237,40.0000
+154,313,Tomatoes,July 1st,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+155,44,Maize,July 1st,"Rainy, cool, wet",Silt loam,54.4310844,150.0000
+156,443,Maize,July 1st,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+157,176,Squash,July 1st,"Sunny, warm, dry",Sandy loam,54.4310844,30.0000
+158,29,Soybeans,July 1st,"Rainy, cool, wet",Clay loam,68.0388555,150.0000
+159,498,Tomatoes,July 1st,"Sunny, warm, dry",Sandy loam,45.359237,150.0000
+160,30,Maize,July 1st,"Rainy, cool, wet",Clay loam,68.0388555,150.0000
+161,399,Maize,July 1st,"Sunny, warm, humid",Silt loam,54.4310844,150.0000
+162,358,Soybeans,July 1st,"Rainy, cool, wet",Silt loam,45.359237,40.0000
+163,404,Soybeans,July 1st,"Sunny, warm, dry",Sandy loam,54.4310844,150.0000
+164,86,Peppers,July 1st,"Rainy, cool, wet",Sandy loam,68.0388555,40.0000
+165,229,Squash,July 1st,"Sunny, warm, dry",Clay loam,68.0388555,150.0000
+166,480,Maize,July 1st,"Sunny, warm, humid",Silt loam,54.4310844,30.0000
+167,463,Potatoes,July 1st,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+168,352,Potatoes,July 1st,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+169,461,Tomatoes,July 1st,"Rainy, cool, wet",Clay loam,45.359237,40.0000
+170,266,Sugar Beans,July 1st,"Rainy, cool, wet",Silt loam,45.359237,150.0000
+171,209,Maize,July 1st,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+172,43,Sugar Beans,July 1st,"Sunny, warm, dry",Clay loam,54.4310844,40.0000
+173,206,Cucumbers,July 1st,"Sunny, warm, humid",Clay loam,68.0388555,30.0000
+174,207,Potatoes,July 1st,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+175,275,Pumpkins,July 1st,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+176,272,Squash,July 1st,"Rainy, cool, wet",Clay loam,68.0388555,40.0000
+177,152,Soybeans,July 1st,"Rainy, cool, wet",Clay loam,45.359237,150.0000
+178,153,Maize,July 1st,"Sunny, warm, humid",Clay loam,45.359237,30.0000
+179,284,Wheat,July 1st,"Sunny, warm, humid",Silt loam,45.359237,150.0000
+180,65,Sugar Beans,July 1st,"Rainy, cool, wet",Sandy loam,45.359237,30.0000
+181,158,Wheat,July 1st,"Sunny, warm, dry",Clay loam,45.359237,150.0000
+182,59,Squash,July 1st,"Sunny, warm, humid",Clay loam,54.4310844,30.0000
+183,327,Maize,July 1st,"Sunny, warm, dry",Sandy loam,45.359237,30.0000
+184,445,Potatoes,July 1st,"Sunny, warm, humid",Sandy loam,68.0388555,150.0000
+185,67,Potatoes,July 1st,"Sunny, warm, humid",Sandy loam,68.0388555,30.0000
+186,297,Maize,July 1st,"Sunny, warm, humid",Silt loam,54.4310844,150.0000
+187,69,Tomatoes,July 1st,"Sunny, warm, humid",Sandy loam,68.0388555,30.0000
+188,15,Cucumbers,July 1st,"Rainy, cool, wet",Silt loam,45.359237,40.0000
+189,162,Pumpkins,July 1st,"Sunny, warm, dry",Clay loam,45.359237,30.0000
+190,435,Tomatoes,July 1st,"Sunny, warm, humid",Clay loam,68.0388555,30.0000
+191,442,Potatoes,July 1st,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+192,293,Maize,July 1st,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+193,427,Wheat,July 1st,"Sunny, warm, humid",Clay loam,45.359237,30.0000
+194,170,Sugar Beans,July 1st,"Sunny, warm, dry",Clay loam,68.0388555,150.0000
+195,437,Tomatoes,June 15th,"Sunny, warm, dry",Silt loam,45.359237,150.0000
+196,221,Maize,June 15th,"Sunny, warm, humid",Silt loam,45.359237,30.0000
+197,38,Pumpkins,June 15th,"Sunny, warm, dry",Sandy loam,68.0388555,40.0000
+198,441,Maize,June 15th,"Sunny, warm, humid",Clay loam,45.359237,30.0000
+199,261,Soybeans,June 15th,"Sunny, warm, dry",Silt loam,68.0388555,40.0000
+200,371,Soybeans,June 15th,"Sunny, warm, humid",Sandy loam,45.359237,150.0000
+201,259,Wheat,June 15th,"Sunny, warm, humid",Silt loam,68.0388555,30.0000
+202,285,Cucumbers,June 15th,"Rainy, cool, wet",Silt loam,54.4310844,40.0000
+203,85,Tomatoes,June 15th,"Sunny, warm, dry",Sandy loam,68.0388555,30.0000
+204,32,Tomatoes,June 15th,"Sunny, warm, humid",Silt loam,68.0388555,40.0000
+205,131,Wheat,June 15th,"Sunny, warm, humid",Clay loam,54.4310844,30.0000
+206,289,Sugar Beans,June 15th,"Sunny, warm, humid",Silt loam,68.0388555,150.0000
+207,370,Potatoes,June 15th,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+208,84,Maize,June 15th,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+209,406,Potatoes,June 15th,"Sunny, warm, dry",Clay loam,45.359237,30.0000
+210,323,Potatoes,June 15th,"Sunny, warm, humid",Clay loam,68.0388555,30.0000
+211,64,Pumpkins,June 15th,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+212,235,Wheat,June 15th,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+213,405,Sugar Beans,June 15th,"Rainy, cool, wet",Clay loam,54.4310844,40.0000
+214,321,Maize,June 15th,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+215,392,Peppers,June 15th,"Sunny, warm, humid",Sandy loam,45.359237,150.0000
+216,164,Tomatoes,June 15th,"Rainy, cool, wet",Sandy loam,54.4310844,40.0000
+217,72,Tomatoes,June 15th,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+218,325,Maize,June 15th,"Sunny, warm, humid",Silt loam,54.4310844,30.0000
+219,452,Maize,June 15th,"Sunny, warm, humid",Silt loam,68.0388555,40.0000
+220,185,Cucumbers,June 15th,"Rainy, cool, wet",Silt loam,68.0388555,150.0000
+221,186,Squash,June 15th,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+222,456,Pumpkins,June 15th,"Rainy, cool, wet",Silt loam,54.4310844,40.0000
+223,270,Sugar Beans,June 15th,"Sunny, warm, humid",Silt loam,54.4310844,40.0000
+224,191,Wheat,June 15th,"Sunny, warm, humid",Silt loam,45.359237,150.0000
+225,215,Sugar Beans,June 15th,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+226,349,Tomatoes,June 15th,"Sunny, warm, humid",Silt loam,68.0388555,40.0000
+227,393,Cucumbers,June 15th,"Sunny, warm, dry",Sandy loam,54.4310844,30.0000
+228,339,Potatoes,June 15th,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+229,341,Squash,June 15th,"Rainy, cool, wet",Silt loam,68.0388555,30.0000
+230,203,Peppers,June 15th,"Sunny, warm, humid",Clay loam,68.0388555,150.0000
+231,45,Pumpkins,June 15th,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+232,251,Tomatoes,June 15th,"Sunny, warm, humid",Silt loam,45.359237,150.0000
+233,366,Tomatoes,June 15th,"Sunny, warm, humid",Clay loam,45.359237,30.0000
+234,279,Peppers,June 15th,"Sunny, warm, humid",Clay loam,45.359237,40.0000
+235,42,Cucumbers,June 15th,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+236,151,Cucumbers,June 15th,"Sunny, warm, humid",Sandy loam,45.359237,40.0000
+237,100,Potatoes,June 15th,"Sunny, warm, dry",Sandy loam,54.4310844,150.0000
+238,174,Cucumbers,June 15th,"Sunny, warm, humid",Sandy loam,45.359237,150.0000
+239,305,Wheat,June 1st,"Rainy, cool, wet",Clay loam,54.4310844,30.0000
+240,306,Potatoes,June 1st,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+241,359,Sugar Beans,June 1st,"Sunny, warm, dry",Silt loam,54.4310844,40.0000
+242,328,Squash,June 1st,"Sunny, warm, humid",Clay loam,54.4310844,40.0000
+243,307,Maize,June 1st,"Sunny, warm, humid",Sandy loam,68.0388555,30.0000
+244,332,Squash,June 1st,"Sunny, warm, humid",Clay loam,54.4310844,40.0000
+245,320,Sugar Beans,June 1st,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+246,254,Peppers,June 1st,"Rainy, cool, wet",Clay loam,45.359237,30.0000
+247,394,Peppers,June 1st,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+248,324,Squash,June 1st,"Sunny, warm, dry",Silt loam,68.0388555,40.0000
+249,317,Potatoes,June 1st,"Sunny, warm, humid",Silt loam,54.4310844,40.0000
+250,267,Wheat,June 1st,"Rainy, cool, wet",Silt loam,45.359237,40.0000
+251,348,Maize,June 1st,"Sunny, warm, dry",Sandy loam,54.4310844,30.0000
+252,315,Peppers,June 1st,"Sunny, warm, dry",Sandy loam,54.4310844,30.0000
+253,181,Soybeans,June 1st,"Sunny, warm, humid",Sandy loam,45.359237,40.0000
+254,402,Pumpkins,June 1st,"Rainy, cool, wet",Clay loam,45.359237,40.0000
+255,440,Pumpkins,June 1st,"Sunny, warm, humid",Sandy loam,54.4310844,150.0000
+256,138,Maize,June 1st,"Sunny, warm, humid",Silt loam,45.359237,30.0000
+257,444,Cucumbers,June 1st,"Rainy, cool, wet",Clay loam,45.359237,150.0000
+258,128,Maize,June 1st,"Sunny, warm, dry",Clay loam,54.4310844,40.0000
+259,446,Potatoes,June 1st,"Sunny, warm, humid",Silt loam,54.4310844,30.0000
+260,125,Pumpkins,June 1st,"Sunny, warm, dry",Clay loam,68.0388555,40.0000
+261,113,Maize,June 1st,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+262,112,Peppers,June 1st,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+263,106,Squash,June 1st,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+264,102,Potatoes,June 1st,"Sunny, warm, humid",Silt loam,54.4310844,150.0000
+265,83,Squash,June 1st,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+266,77,Sugar Beans,June 1st,"Sunny, warm, dry",Sandy loam,68.0388555,30.0000
+267,76,Soybeans,June 1st,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+268,141,Tomatoes,June 1st,"Rainy, cool, wet",Sandy loam,45.359237,150.0000
+269,62,Soybeans,June 1st,"Sunny, warm, humid",Sandy loam,45.359237,150.0000
+270,54,Peppers,June 1st,"Sunny, warm, dry",Sandy loam,45.359237,40.0000
+271,475,Soybeans,June 1st,"Rainy, cool, wet",Clay loam,45.359237,40.0000
+272,40,Sugar Beans,June 1st,"Sunny, warm, humid",Sandy loam,45.359237,40.0000
+273,39,Wheat,June 1st,"Sunny, warm, humid",Silt loam,54.4310844,150.0000
+274,37,Cucumbers,June 1st,"Sunny, warm, humid",Silt loam,54.4310844,40.0000
+275,477,Wheat,June 1st,"Sunny, warm, humid",Clay loam,54.4310844,40.0000
+276,34,Potatoes,June 1st,"Sunny, warm, dry",Clay loam,68.0388555,40.0000
+277,28,Cucumbers,June 1st,"Sunny, warm, dry",Clay loam,45.359237,30.0000
+278,479,Peppers,June 1st,"Sunny, warm, humid",Silt loam,68.0388555,30.0000
+279,489,Potatoes,June 1st,"Rainy, cool, wet",Sandy loam,54.4310844,40.0000
+280,4,Squash,June 1st,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+281,3,Cucumbers,June 1st,"Rainy, cool, wet",Silt loam,54.4310844,40.0000
+282,497,Sugar Beans,June 1st,"Sunny, warm, dry",Sandy loam,45.359237,30.0000
+283,56,Soybeans,June 1st,"Sunny, warm, humid",Clay loam,54.4310844,30.0000
+284,143,Tomatoes,June 1st,"Rainy, cool, wet",Sandy loam,68.0388555,40.0000
+285,111,Squash,June 1st,"Sunny, warm, dry",Sandy loam,54.4310844,30.0000
+286,430,Pumpkins,June 1st,"Sunny, warm, dry",Sandy loam,45.359237,40.0000
+287,184,Wheat,June 1st,"Sunny, warm, humid",Clay loam,68.0388555,40.0000
+288,163,Soybeans,June 1st,"Rainy, cool, wet",Silt loam,54.4310844,150.0000
+289,415,Potatoes,June 1st,"Rainy, cool, wet",Sandy loam,45.359237,40.0000
+290,173,Squash,June 1st,"Sunny, warm, humid",Silt loam,54.4310844,30.0000
+291,223,Squash,June 1st,"Sunny, warm, dry",Clay loam,54.4310844,40.0000
+292,227,Cucumbers,June 1st,"Sunny, warm, dry",Clay loam,54.4310844,40.0000
+293,148,Sugar Beans,June 1st,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+294,417,Cucumbers,June 1st,"Sunny, warm, humid",Silt loam,54.4310844,40.0000
+295,408,Pumpkins,June 1st,"Sunny, warm, dry",Sandy loam,45.359237,150.0000
+296,166,Potatoes,June 1st,"Sunny, warm, dry",Silt loam,54.4310844,40.0000
+297,161,Wheat,June 1st,"Rainy, cool, wet",Sandy loam,68.0388555,150.0000
+298,265,Pumpkins,May 15th,"Sunny, warm, dry",Silt loam,54.4310844,150.0000
+299,46,Sugar Beans,May 15th,"Rainy, cool, wet",Silt loam,45.359237,150.0000
+300,146,Cucumbers,May 15th,"Rainy, cool, wet",Sandy loam,54.4310844,150.0000
+301,211,Wheat,May 15th,"Sunny, warm, humid",Sandy loam,68.0388555,150.0000
+302,336,Tomatoes,May 15th,"Sunny, warm, humid",Clay loam,68.0388555,30.0000
+303,196,Tomatoes,May 15th,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+304,57,Squash,May 15th,"Rainy, cool, wet",Silt loam,68.0388555,30.0000
+305,472,Peppers,May 15th,"Sunny, warm, dry",Silt loam,45.359237,30.0000
+306,63,Maize,May 15th,"Sunny, warm, dry",Clay loam,54.4310844,40.0000
+307,47,Potatoes,May 15th,"Sunny, warm, dry",Silt loam,45.359237,30.0000
+308,51,Squash,May 15th,"Sunny, warm, humid",Clay loam,45.359237,150.0000
+309,218,Squash,May 15th,"Rainy, cool, wet",Sandy loam,68.0388555,40.0000
+310,470,Sugar Beans,May 15th,"Sunny, warm, dry",Sandy loam,68.0388555,150.0000
+311,27,Peppers,May 15th,"Rainy, cool, wet",Sandy loam,68.0388555,150.0000
+312,226,Wheat,May 15th,"Sunny, warm, dry",Sandy loam,54.4310844,150.0000
+313,24,Potatoes,May 15th,"Sunny, warm, humid",Clay loam,54.4310844,30.0000
+314,21,Cucumbers,May 15th,"Rainy, cool, wet",Silt loam,45.359237,30.0000
+315,20,Soybeans,May 15th,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+316,482,Tomatoes,May 15th,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+317,17,Maize,May 15th,"Sunny, warm, humid",Sandy loam,45.359237,40.0000
+318,12,Pumpkins,May 15th,"Sunny, warm, dry",Silt loam,54.4310844,150.0000
+319,7,Maize,May 15th,"Sunny, warm, humid",Silt loam,68.0388555,30.0000
+320,233,Soybeans,May 15th,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+321,256,Cucumbers,May 15th,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+322,240,Cucumbers,May 15th,"Sunny, warm, humid",Silt loam,45.359237,30.0000
+323,360,Soybeans,May 15th,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+324,411,Pumpkins,May 15th,"Sunny, warm, humid",Silt loam,45.359237,40.0000
+325,68,Squash,May 15th,"Sunny, warm, humid",Silt loam,68.0388555,150.0000
+326,249,Soybeans,May 15th,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+327,438,Peppers,May 15th,"Sunny, warm, humid",Clay loam,54.4310844,30.0000
+328,287,Maize,May 15th,"Sunny, warm, humid",Clay loam,68.0388555,30.0000
+329,283,Potatoes,May 15th,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+330,391,Squash,May 15th,"Rainy, cool, wet",Silt loam,54.4310844,40.0000
+331,139,Potatoes,May 15th,"Sunny, warm, dry",Sandy loam,54.4310844,150.0000
+332,137,Soybeans,May 15th,"Rainy, cool, wet",Silt loam,68.0388555,40.0000
+333,295,Squash,May 15th,"Rainy, cool, wet",Clay loam,68.0388555,40.0000
+334,154,Soybeans,May 15th,"Sunny, warm, dry",Sandy loam,45.359237,40.0000
+335,386,Potatoes,May 15th,"Sunny, warm, humid",Clay loam,54.4310844,150.0000
+336,277,Squash,May 15th,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+337,301,Squash,May 15th,"Sunny, warm, humid",Clay loam,68.0388555,150.0000
+338,384,Tomatoes,May 15th,"Sunny, warm, dry",Silt loam,68.0388555,40.0000
+339,70,Potatoes,May 15th,"Sunny, warm, dry",Clay loam,54.4310844,40.0000
+340,114,Peppers,May 15th,"Sunny, warm, humid",Sandy loam,45.359237,150.0000
+341,401,Tomatoes,May 15th,"Sunny, warm, dry",Clay loam,54.4310844,30.0000
+342,450,Cucumbers,May 15th,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+343,426,Wheat,May 15th,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+344,312,Peppers,May 15th,"Sunny, warm, humid",Clay loam,45.359237,30.0000
+345,101,Peppers,May 15th,"Sunny, warm, dry",Sandy loam,68.0388555,30.0000
+346,99,Squash,May 15th,"Sunny, warm, humid",Clay loam,45.359237,150.0000
+347,96,Sugar Beans,May 15th,"Sunny, warm, humid",Sandy loam,68.0388555,30.0000
+348,316,Squash,May 15th,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+349,78,Soybeans,May 15th,"Sunny, warm, dry",Silt loam,68.0388555,150.0000
+350,103,Tomatoes,May 15th,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+351,466,Squash,May 15th,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+352,82,Potatoes,May 15th,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+353,365,Soybeans,May 1st,"Rainy, cool, wet",Sandy loam,45.359237,40.0000
+354,439,Sugar Beans,May 1st,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+355,418,Potatoes,May 1st,"Rainy, cool, wet",Clay loam,45.359237,30.0000
+356,376,Maize,May 1st,"Rainy, cool, wet",Sandy loam,54.4310844,40.0000
+357,380,Squash,May 1st,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+358,434,Tomatoes,May 1st,"Sunny, warm, humid",Silt loam,45.359237,30.0000
+359,465,Peppers,May 1st,"Sunny, warm, dry",Silt loam,54.4310844,30.0000
+360,473,Wheat,May 1st,"Sunny, warm, dry",Clay loam,68.0388555,150.0000
+361,448,Peppers,May 1st,"Sunny, warm, dry",Silt loam,54.4310844,150.0000
+362,388,Potatoes,May 1st,"Sunny, warm, dry",Silt loam,54.4310844,40.0000
+363,422,Potatoes,May 1st,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+364,0,Squash,May 1st,"Sunny, warm, humid",Silt loam,45.359237,150.0000
+365,499,Cucumbers,May 1st,"Rainy, cool, wet",Silt loam,68.0388555,40.0000
+366,104,Pumpkins,May 1st,"Rainy, cool, wet",Sandy loam,54.4310844,40.0000
+367,190,Maize,May 1st,"Sunny, warm, humid",Clay loam,54.4310844,30.0000
+368,105,Squash,May 1st,"Sunny, warm, dry",Clay loam,45.359237,150.0000
+369,260,Potatoes,May 1st,"Sunny, warm, dry",Sandy loam,45.359237,30.0000
+370,248,Cucumbers,May 1st,"Sunny, warm, humid",Sandy loam,68.0388555,150.0000
+371,115,Tomatoes,May 1st,"Sunny, warm, dry",Silt loam,45.359237,30.0000
+372,242,Sugar Beans,May 1st,"Sunny, warm, humid",Clay loam,45.359237,30.0000
+373,88,Peppers,May 1st,"Sunny, warm, dry",Silt loam,45.359237,150.0000
+374,140,Cucumbers,May 1st,"Sunny, warm, dry",Silt loam,45.359237,30.0000
+375,150,Potatoes,May 1st,"Sunny, warm, dry",Clay loam,68.0388555,150.0000
+376,362,Squash,May 1st,"Sunny, warm, humid",Silt loam,68.0388555,30.0000
+377,168,Sugar Beans,May 1st,"Sunny, warm, dry",Silt loam,45.359237,150.0000
+378,172,Maize,May 1st,"Sunny, warm, humid",Sandy loam,68.0388555,40.0000
+379,183,Potatoes,May 1st,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+380,188,Peppers,May 1st,"Sunny, warm, dry",Sandy loam,45.359237,30.0000
+381,193,Soybeans,May 1st,"Sunny, warm, humid",Clay loam,54.4310844,150.0000
+382,147,Peppers,May 1st,"Sunny, warm, dry",Sandy loam,68.0388555,150.0000
+383,300,Wheat,May 1st,"Sunny, warm, humid",Sandy loam,68.0388555,150.0000
+384,280,Wheat,May 1st,"Sunny, warm, humid",Sandy loam,54.4310844,150.0000
+385,192,Pumpkins,May 1st,"Sunny, warm, humid",Silt loam,45.359237,150.0000
+386,330,Peppers,May 1st,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+387,329,Soybeans,May 1st,"Sunny, warm, dry",Silt loam,54.4310844,150.0000
+388,337,Peppers,May 1st,"Rainy, cool, wet",Clay loam,68.0388555,150.0000
+389,11,Pumpkins,May 1st,"Sunny, warm, humid",Clay loam,45.359237,30.0000
+390,66,Soybeans,May 1st,"Rainy, cool, wet",Clay loam,68.0388555,150.0000
+391,343,Tomatoes,May 1st,"Sunny, warm, dry",Clay loam,54.4310844,40.0000
+392,26,Maize,May 1st,"Sunny, warm, humid",Silt loam,68.0388555,40.0000
+393,344,Soybeans,May 1st,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+394,335,Tomatoes,May 1st,"Sunny, warm, humid",Sandy loam,68.0388555,40.0000
+395,428,Squash,September 15th,"Rainy, cool, wet",Sandy loam,54.4310844,150.0000
+396,429,Wheat,September 15th,"Sunny, warm, humid",Silt loam,45.359237,40.0000
+397,155,Cucumbers,September 15th,"Sunny, warm, dry",Silt loam,54.4310844,150.0000
+398,492,Maize,September 15th,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+399,493,Sugar Beans,September 15th,"Rainy, cool, wet",Sandy loam,68.0388555,40.0000
+400,145,Peppers,September 15th,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+401,142,Pumpkins,September 15th,"Sunny, warm, dry",Clay loam,68.0388555,150.0000
+402,9,Peppers,September 15th,"Sunny, warm, humid",Sandy loam,68.0388555,30.0000
+403,1,Maize,September 15th,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+404,474,Pumpkins,September 15th,"Sunny, warm, dry",Clay loam,54.4310844,30.0000
+405,118,Tomatoes,September 15th,"Sunny, warm, humid",Clay loam,68.0388555,30.0000
+406,110,Pumpkins,September 15th,"Rainy, cool, wet",Silt loam,68.0388555,30.0000
+407,453,Sugar Beans,September 15th,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+408,108,Peppers,September 15th,"Sunny, warm, dry",Clay loam,45.359237,150.0000
+409,18,Potatoes,September 15th,"Sunny, warm, humid",Silt loam,45.359237,150.0000
+410,455,Wheat,September 15th,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+411,481,Wheat,September 15th,"Sunny, warm, dry",Silt loam,45.359237,30.0000
+412,458,Pumpkins,September 15th,"Rainy, cool, wet",Sandy loam,45.359237,30.0000
+413,19,Tomatoes,September 15th,"Sunny, warm, dry",Silt loam,54.4310844,150.0000
+414,459,Maize,September 15th,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+415,92,Potatoes,September 15th,"Sunny, warm, dry",Silt loam,54.4310844,30.0000
+416,89,Cucumbers,September 15th,"Sunny, warm, dry",Sandy loam,54.4310844,150.0000
+417,48,Pumpkins,September 15th,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+418,71,Pumpkins,September 15th,"Rainy, cool, wet",Clay loam,54.4310844,40.0000
+419,136,Soybeans,September 15th,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+420,488,Cucumbers,September 15th,"Rainy, cool, wet",Sandy loam,68.0388555,150.0000
+421,361,Maize,September 15th,"Sunny, warm, humid",Clay loam,54.4310844,150.0000
+422,326,Squash,September 15th,"Sunny, warm, humid",Sandy loam,68.0388555,150.0000
+423,299,Sugar Beans,September 15th,"Rainy, cool, wet",Clay loam,45.359237,150.0000
+424,302,Wheat,September 15th,"Sunny, warm, humid",Silt loam,45.359237,40.0000
+425,419,Wheat,September 15th,"Sunny, warm, dry",Sandy loam,45.359237,40.0000
+426,282,Cucumbers,September 15th,"Sunny, warm, dry",Silt loam,45.359237,150.0000
+427,262,Peppers,September 15th,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+428,258,Maize,September 15th,"Sunny, warm, humid",Sandy loam,45.359237,30.0000
+429,246,Squash,September 15th,"Sunny, warm, dry",Sandy loam,54.4310844,30.0000
+430,241,Maize,September 15th,"Rainy, cool, wet",Clay loam,45.359237,150.0000
+431,381,Squash,September 15th,"Sunny, warm, dry",Sandy loam,68.0388555,40.0000
+432,291,Squash,September 15th,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+433,378,Potatoes,September 15th,"Rainy, cool, wet",Clay loam,45.359237,30.0000
+434,239,Squash,September 15th,"Rainy, cool, wet",Clay loam,68.0388555,40.0000
+435,236,Cucumbers,September 15th,"Sunny, warm, dry",Sandy loam,68.0388555,40.0000
+436,225,Pumpkins,September 15th,"Rainy, cool, wet",Clay loam,68.0388555,150.0000
+437,298,Sugar Beans,September 15th,"Sunny, warm, humid",Sandy loam,54.4310844,30.0000
+438,416,Maize,September 15th,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+439,216,Soybeans,September 15th,"Sunny, warm, dry",Silt loam,68.0388555,40.0000
+440,367,Maize,September 15th,"Sunny, warm, dry",Silt loam,54.4310844,30.0000
+441,346,Squash,September 15th,"Sunny, warm, dry",Silt loam,54.4310844,30.0000
+442,485,Soybeans,September 1st,"Sunny, warm, dry",Sandy loam,45.359237,150.0000
+443,87,Potatoes,September 1st,"Rainy, cool, wet",Sandy loam,68.0388555,150.0000
+444,74,Pumpkins,September 1st,"Rainy, cool, wet",Silt loam,54.4310844,30.0000
+445,354,Soybeans,September 1st,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+446,6,Wheat,September 1st,"Sunny, warm, humid",Sandy loam,68.0388555,30.0000
+447,8,Sugar Beans,September 1st,"Rainy, cool, wet",Clay loam,45.359237,30.0000
+448,471,Tomatoes,September 1st,"Sunny, warm, dry",Silt loam,45.359237,30.0000
+449,60,Pumpkins,September 1st,"Sunny, warm, humid",Silt loam,54.4310844,40.0000
+450,53,Peppers,September 1st,"Sunny, warm, dry",Sandy loam,54.4310844,40.0000
+451,304,Sugar Beans,September 1st,"Sunny, warm, humid",Sandy loam,68.0388555,30.0000
+452,310,Wheat,September 1st,"Sunny, warm, humid",Clay loam,45.359237,150.0000
+453,345,Cucumbers,September 1st,"Rainy, cool, wet",Clay loam,54.4310844,40.0000
+454,476,Squash,September 1st,"Sunny, warm, humid",Sandy loam,54.4310844,150.0000
+455,36,Wheat,September 1st,"Rainy, cool, wet",Silt loam,54.4310844,150.0000
+456,491,Tomatoes,September 1st,"Rainy, cool, wet",Sandy loam,68.0388555,40.0000
+457,35,Pumpkins,September 1st,"Sunny, warm, dry",Sandy loam,54.4310844,150.0000
+458,10,Potatoes,September 1st,"Sunny, warm, dry",Silt loam,45.359237,30.0000
+459,318,Maize,September 1st,"Rainy, cool, wet",Silt loam,68.0388555,150.0000
+460,372,Wheat,September 1st,"Rainy, cool, wet",Silt loam,45.359237,40.0000
+461,14,Sugar Beans,September 1st,"Sunny, warm, humid",Sandy loam,68.0388555,40.0000
+462,333,Cucumbers,September 1st,"Sunny, warm, humid",Sandy loam,54.4310844,150.0000
+463,13,Potatoes,September 1st,"Sunny, warm, dry",Clay loam,68.0388555,30.0000
+464,484,Wheat,September 1st,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+465,486,Peppers,September 1st,"Sunny, warm, dry",Silt loam,68.0388555,150.0000
+466,194,Peppers,September 1st,"Rainy, cool, wet",Silt loam,54.4310844,40.0000
+467,290,Cucumbers,September 1st,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+468,93,Sugar Beans,September 1st,"Sunny, warm, humid",Clay loam,68.0388555,150.0000
+469,423,Wheat,September 1st,"Sunny, warm, dry",Clay loam,45.359237,150.0000
+470,179,Maize,September 1st,"Rainy, cool, wet",Silt loam,45.359237,150.0000
+471,212,Cucumbers,September 1st,"Sunny, warm, dry",Silt loam,45.359237,30.0000
+472,414,Potatoes,September 1st,"Sunny, warm, dry",Sandy loam,45.359237,40.0000
+473,213,Squash,September 1st,"Sunny, warm, dry",Sandy loam,68.0388555,30.0000
+474,214,Wheat,September 1st,"Rainy, cool, wet",Clay loam,68.0388555,30.0000
+475,167,Squash,September 1st,"Sunny, warm, dry",Clay loam,54.4310844,150.0000
+476,165,Potatoes,September 1st,"Sunny, warm, humid",Silt loam,68.0388555,30.0000
+477,410,Maize,September 1st,"Sunny, warm, humid",Silt loam,68.0388555,30.0000
+478,222,Cucumbers,September 1st,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+479,149,Tomatoes,September 1st,"Sunny, warm, dry",Sandy loam,68.0388555,150.0000
+480,436,Pumpkins,September 1st,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+481,231,Peppers,September 1st,"Rainy, cool, wet",Sandy loam,54.4310844,150.0000
+482,232,Squash,September 1st,"Sunny, warm, dry",Sandy loam,54.4310844,40.0000
+483,135,Cucumbers,September 1st,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+484,134,Squash,September 1st,"Rainy, cool, wet",Clay loam,54.4310844,150.0000
+485,132,Tomatoes,September 1st,"Sunny, warm, humid",Silt loam,68.0388555,150.0000
+486,129,Potatoes,September 1st,"Rainy, cool, wet",Clay loam,45.359237,40.0000
+487,126,Sugar Beans,September 1st,"Sunny, warm, dry",Sandy loam,54.4310844,30.0000
+488,124,Peppers,September 1st,"Sunny, warm, dry",Sandy loam,45.359237,40.0000
+489,449,Cucumbers,September 1st,"Rainy, cool, wet",Silt loam,45.359237,150.0000
+490,116,Sugar Beans,September 1st,"Sunny, warm, dry",Clay loam,45.359237,40.0000
+491,253,Peppers,September 1st,"Sunny, warm, humid",Clay loam,68.0388555,40.0000
+492,397,Squash,September 1st,"Sunny, warm, dry",Sandy loam,68.0388555,150.0000
+493,395,Potatoes,September 1st,"Sunny, warm, dry",Silt loam,45.359237,40.0000
+494,107,Maize,September 1st,"Sunny, warm, humid",Sandy loam,68.0388555,30.0000
+495,268,Pumpkins,September 1st,"Sunny, warm, dry",Clay loam,68.0388555,150.0000
+496,97,Maize,September 1st,"Rainy, cool, wet",Silt loam,54.4310844,40.0000
+497,95,Squash,September 1st,"Sunny, warm, dry",Sandy loam,54.4310844,40.0000
+498,389,Soybeans,September 1st,"Rainy, cool, wet",Sandy loam,68.0388555,30.0000
+499,157,Sugar Beans,September 1st,"Rainy, cool, wet",Silt loam,54.4310844,40.0000
